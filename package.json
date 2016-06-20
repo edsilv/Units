@@ -1,0 +1,19 @@
+{
+  "name": "units",
+  "version": "1.0.0",
+  "description": "Units is a JavaScript library for converting between angle and length units. Both are intended for use within other libraries that need to convert between acceptable CSS units when creating polyfills. Using these unit conversions allows a library to support all valid CSS units easily.",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edsilv/Units.git"
+  },
+  "author": "Edward Silverton <e.silverton@gmail.com> (http://edsilv.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edsilv/Units/issues"
+  },
+  "homepage": "https://github.com/edsilv/Units#readme"
+}
